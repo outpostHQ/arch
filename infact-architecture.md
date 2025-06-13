@@ -125,7 +125,7 @@ flowchart TB
 3. **Extract** - Markdown content extracted from multiple sources
 4. **Validate** - Check if sources actually answer the questions (0.7+ confidence)
 5. **Retry** - Alternative query terms for unanswered questions (max 3 attempts)
-6. **Synthesize** - Qwen2.5-32B-Instruct (gp-4o-mini level capabilities) combines findings into cited answer
+6. **Synthesize** - Qwen2.5-32B-Instruct (gpt-4o-mini level capabilities) combines findings into cited answer
 
 ### Key Features
 
